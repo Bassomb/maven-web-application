@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://3.96.160.143:8081/repository/Ebay-release-repo/</url>
+	      <url> http://3.96.170.18:8081/repository/google-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
